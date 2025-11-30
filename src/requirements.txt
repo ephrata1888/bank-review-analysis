@@ -1,0 +1,6 @@
+pandas>=2.0.0
+google-play-scraper>=1.0.3
+tqdm>=4.65.0
+matplotlib
+seaborn
+preprocessing
