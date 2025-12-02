@@ -4,3 +4,14 @@ tqdm>=4.65.0
 matplotlib
 seaborn
 preprocessing
+dotenv
+transformers
+torch
+sentencepiece
+vaderSentiment
+pandas
+scikit-learn
+nltk
+spacy
+gensim
+python-dotenv
